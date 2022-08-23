@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sebastienbourda
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning full stack development at codecademy
-- 📫 How to reach me at sebastienbourda@gmail.com
+- 👋 Hi, I’m @sebastienbourda. 
+- 🛣 After a degree in Industrial Design, i spent 6 years working on customer journey in an Apple Store.
+- 👀 Interested in programming since 15 years. I learn by myself through documentation. 
+- 🌱 Currently, i'm enroll in Le Wagon Web Development Courses to improve my skills and became a professionnal developper.
