@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @sebastienbourda. 
+- 👋 Hi, I’m @sebastienbourda. Fullstack developper with product Designer background. 
 - 🛣 After a degree in Product Design, i spent 6 years focusses on customer journey in an Apple Store.
 - 👀 Interested in programming since 15 years. I learn by myself through documentation.
-- 🌱 Currently, i'm enroll in Le Wagon Web Development Courses to improve my skills and became a professionnal developper.
